@@ -1,6 +1,7 @@
 # MyHabbit
 
 An application for developing habits that become established 21 days after starting journaling.
+
 You add a task, time and assign a color and complete it.
 
 If anyone finds it useful, please use it.
